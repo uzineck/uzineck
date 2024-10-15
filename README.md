@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CHMNU Schedule](https://github.com/uzineck/chmnu_schedule_app.git)
 
-- 🌱 I’m currently learning **Django-ninja, Nginx, Uvicorn**
+- 🌱 I’m currently learning **Django-ninja, Pytest, Nginx, Uvicorn**
 
 - 👨‍💻 All of my projects are available at [my repositories page](https://github.com/uzineck?tab=repositories)
 
