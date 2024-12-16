@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzineck&label=Profile%20views&color=78388b&style=plastic" alt="uzineck" /> </p>
 
-- 🔭 I’m currently working on [CHMNU Schedule](https://github.com/uzineck/chmnu_schedule_app.git)
+- 🔭 I’m currently working on [CHMNU Schedule](https://github.com/uzineck/chmnu_schedule_app.git) and [CHMNU Schedule Frontend](https://github.com/uzineck/chmnu_schedule_app_frontend.git)
 
 - 🌱 I’m currently learning **React, Vite**
 
